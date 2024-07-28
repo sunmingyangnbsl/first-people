@@ -4,6 +4,7 @@ using namespace std ;
 #include<ctime>
 
 class student {
+    int a  ;
 public:
 
     void show(int a) {
